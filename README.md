@@ -21,8 +21,8 @@ https://github.com/EntelectChallenge/2020-Overdrive/releases/tag/2020.3.4
 Untuk menjalankan permainan, kalian dapat membuka file “run.bat” (Untuk Windows dapat buka dengan double-click, Untuk Linux/Mac dapat menjalankan command “make run”).
 
 ## KELOMPOK MOBIL MOGOK
-- 13520116 Mahesa Lizardy
 - 13520108 Muhammad Rakha Athaya
+- 13520116 Mahesa Lizardy
 - 13520119 Marchotridyo
 
 
