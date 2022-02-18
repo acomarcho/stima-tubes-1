@@ -17,12 +17,10 @@ Untuk mengompile source code yang ada di /src, dibutuhkan dua teknologi berikut.
 - Java (minimal Java 8)
 - IntelIiJ IDEA
 
-Sudah disediakan binary yang sudah dicompile di /src, jadi untuk menjalankan yang diperlukan hanya Java (lihat instruksi di bawah), tidak perlu IntelliJ IDEA.
+Disarankan untuk mengikuti cara build yang dijelaskan di https://stackoverflow.com/questions/30204884/creating-a-jar-from-a-maven-project-in-intellij/30210471. Project yang dibuka adalah folder /src langsung yang berada di repository ini.
 
-## Cara Menjalankan Program
-Untuk menjalankan permainan, extract folder /src, kalian dapat membuka file “run.bat” pada folder tersebut. (Untuk Windows dapat buka dengan double-click, untuk Linux/Mac dapat menjalankan command “make run”). Konfigurasi sudah diatur sehingga _by default_ akan digunakan bot mobil-mogok sebagai _player A_.
-
-Apabila diperlukan file .jar dari bot, silakan lihat folder /bin ataupun /src/mobil-mogok/target.
+## Cara Menggunakan Bot
+Gunakan game runner yang disediakan pada release starter pack repository https://github.com/EntelectChallenge/2020-Overdrive. Ubah game-runner-config agar salah satu dari player-a atau player-b mengarah ke folder /src mobil-mogok yang sudah dicompile.  Lalu, jalankan run.bat!
 
 ## Kelompok Mobil Mogok
 - 13520108 Muhammad Rakha Athaya
