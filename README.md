@@ -7,20 +7,24 @@ dapat mengalahkan lawannya. Pada tugas besar pertama Strategi Algoritma ini, aka
 
 https://github.com/EntelectChallenge/2020-Overdrive.
 
-Tugas mahasiswa adalah mengimplementasikan bot mobil dalam permainan Overdrive denganmenggunakan strategi greedy untuk memenangkan permainan. Untuk mengimplementasikan
+Tugas mahasiswa adalah mengimplementasikan bot mobil dalam permainan Overdrive dengan menggunakan strategi greedy untuk memenangkan permainan. Untuk mengimplementasikan
 bot tersebut, mahasiswa disarankan melanjutkan program yang terdapat pada starter-bots di dalam starter-pack pada laman berikut ini:
 
 https://github.com/EntelectChallenge/2020-Overdrive/releases/tag/2020.3.4
 
 ## Requirement
+Untuk mengompile source code yang ada di /src, dibutuhkan dua teknologi berikut.
 - Java (minimal Java 8)
 - IntelIiJ IDEA
-- NodeJS
+
+Sudah disediakan binary yang sudah dicompile di /src, jadi untuk menjalankan yang diperlukan hanya Java (lihat instruksi di bawah), tidak perlu IntelliJ IDEA.
 
 ## Cara Menjalankan Program
-Untuk menjalankan permainan, kalian dapat membuka file “run.bat” (Untuk Windows dapat buka dengan double-click, Untuk Linux/Mac dapat menjalankan command “make run”).
+Untuk menjalankan permainan, extract folder /src, kalian dapat membuka file “run.bat” pada folder tersebut. (Untuk Windows dapat buka dengan double-click, untuk Linux/Mac dapat menjalankan command “make run”). Konfigurasi sudah diatur sehingga _by default_ akan digunakan bot mobil-mogok sebagai _player A_.
 
-## KELOMPOK MOBIL MOGOK
+Apabila diperlukan file .jar dari bot, silakan lihat folder /bin ataupun /src/mobil-mogok/target.
+
+## Kelompok Mobil Mogok
 - 13520108 Muhammad Rakha Athaya
 - 13520116 Mahesa Lizardy
 - 13520119 Marchotridyo
